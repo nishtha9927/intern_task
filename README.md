@@ -1,6 +1,5 @@
 For Backend:
  
-### `myenv\scripts\activate`
 ### `pip install requirements.txt`
 ### `python manage.py runserver`
 
